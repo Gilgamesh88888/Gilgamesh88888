@@ -142,7 +142,7 @@ Interest  : Crypto • Technical Analysis • Web3
 
 ## 💡 Quote
 
-> **"Discipline beats motivation. Consistency beats talent."**
+> **"Manners Maketh Man"**
 
 ⭐ Thanks for visiting my profile!
 
