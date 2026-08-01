@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Agil Syeh Febukhori
 
-### 🚀 Full Stack Developer • 🤖 AI & Machine Learning • 📈 Crypto & Market Analysis
+###  Full Stack Developer •  AI & Machine Learning •  Crypto & Market Analysis
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Crypto+%26+Market+Analysis;Web3+Explorer;Always+Learning+New+Things"/>
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 ```yaml
 Name      : Agil Syeh Febukhori
@@ -26,7 +26,7 @@ Interest  : Crypto • Technical Analysis • Web3
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -62,7 +62,7 @@ Interest  : Crypto • Technical Analysis • Web3
 
 ---
 
-# 🤖 AI & Machine Learning
+#  AI & Machine Learning
 
 <p align="center">
 
@@ -78,7 +78,7 @@ Interest  : Crypto • Technical Analysis • Web3
 
 ---
 
-# 📈 Crypto & Market Analysis
+#  Crypto & Market Analysis
 
 <p align="center">
 
@@ -98,7 +98,7 @@ Interest  : Crypto • Technical Analysis • Web3
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -114,7 +114,7 @@ Interest  : Crypto • Technical Analysis • Web3
 
 ---
 
-## 🏅 GitHub Achievements
+##  GitHub Achievements
 
 <p align="center">
 
@@ -126,7 +126,7 @@ Interest  : Crypto • Technical Analysis • Web3
 
 ---
 
-# 🌐 Connect
+#  Connect
 
 <p align="center">
 
@@ -140,7 +140,7 @@ Interest  : Crypto • Technical Analysis • Web3
 
 <div align="center">
 
-## 💡 Quote
+##  Quote
 
 > **"Manners Maketh Man"**
 
