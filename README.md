@@ -146,11 +146,11 @@ Interest  : Crypto • Technical Analysis • Web3
 > **"Manners Maketh Man"**
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+
 <img width="650" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 </p>
-
+⭐ Thanks for visiting my profile!
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,100:2563EB"/>
 
 </div>
