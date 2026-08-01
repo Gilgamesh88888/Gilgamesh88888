@@ -40,7 +40,7 @@ Interest  : Crypto • Technical Analysis • Web3
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,flask,bootstrap,nodejs,react"/>
+<img src="https://skillicons.dev/icons?i=CodeIgniter,laravel,flask,bootstrap,nodejs,react"/>
 
 </p>
 
