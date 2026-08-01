@@ -56,7 +56,7 @@ Interest  : Crypto • Technical Analysis • Web3
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tradingview"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,dextools"/>
 
 </p>
 
