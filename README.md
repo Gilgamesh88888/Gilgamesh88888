@@ -1,97 +1,149 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Agil%20Syeh%20Febukhori&fontSize=42&fontAlignY=40&color=0:0F172A,100:2563EB&fontColor=ffffff"/>
+
 # 👋 Hi, I'm Agil Syeh Febukhori
 
-### Full Stack Developer | Machine Learning Enthusiast | Crypto & Market Analyst
+### 🚀 Full Stack Developer • 🤖 AI & Machine Learning • 📈 Crypto & Market Analysis
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Machine+Learning+Enthusiast;Crypto+%26+Market+Analyst;Always+Learning+New+Technologies">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Crypto+%26+Market+Analysis;Web3+Explorer;Always+Learning+New+Things"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Gilgamesh88888&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Gilgamesh88888?style=for-the-badge"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Gilgamesh88888&style=for-the-badge&color=2563EB"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Full Stack Web Developer
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 📊 Interested in Financial Market & Cryptocurrency Analysis
-- 📈 Focused on Technical Analysis, Market Structure, and Trading Psychology
-- 🌐 Exploring Web3, Blockchain, and Decentralized Technologies
-- 🚀 Always learning and building impactful solutions
+```yaml
+Name      : Agil Syeh Febukhori
+Location  : Indonesia 🇮🇩
+Focus     : Full Stack Development
+Learning  : AI • Machine Learning • Blockchain
+Interest  : Crypto • Technical Analysis • Web3
+```
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,python,javascript,html,css"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css"/>
+
 </p>
 
-### Frameworks & Tools
+### Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,flask,bootstrap,mysql,git,github,vscode,figma"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,flask,bootstrap,nodejs,react"/>
+
 </p>
 
-### AI & Data Science
+### Database
 
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
 </p>
 
-### Market & Crypto
+### Tools
 
-<p>
-<img src="https://img.shields.io/badge/Crypto_Market-111827?style=for-the-badge&logo=bitcoin&logoColor=F7931A"/>
-<img src="https://img.shields.io/badge/Technical_Analysis-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Price_Action-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Market_Structure-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Risk_Management-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web3-6366F1?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🤖 AI & Machine Learning
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gilgamesh88888&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgamesh88888&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 Crypto & Market Analysis
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/Crypto-111827?style=for-the-badge&logo=bitcoin"/>
+
+<img src="https://img.shields.io/badge/Technical%20Analysis-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Price%20Action-16A34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Market%20Structure-9333EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Risk%20Management-DC2626?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web3-6366F1?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Gilgamesh88888&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gilgamesh88888&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 Achievements
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gilgamesh88888&theme=tokyo-night"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gilgamesh88888&theme=tokyonight&row=1&column=6&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/Gilgamesh88888">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 "Code with logic. Analyze with data. Build for the future."
+## 💡 Quote
 
-⭐ Thank you for visiting my GitHub Profile!
+> **"Discipline beats motivation. Consistency beats talent."**
+
+⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,100:2563EB"/>
 
 </div>
