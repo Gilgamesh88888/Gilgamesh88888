@@ -114,11 +114,13 @@ Interest  : Crypto • Technical Analysis • Web3
 
 ---
 
-# 🏆 Achievements
+## 🏅 GitHub Achievements
 
 <p align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Gilgamesh88888&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
+
+<a href="https://github.com/Gilgamesh88888?achievement=yolo&tab=achievements">
+<img src="https://img.shields.io/badge/YOLO-Achievement-success?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
