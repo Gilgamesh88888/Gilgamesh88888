@@ -103,16 +103,11 @@ Interest  : Crypto • Technical Analysis • Web3
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Gilgamesh88888&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Gilgamesh88888&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gilgamesh88888&theme=tokyonight"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gilgamesh88888&theme=tokyo-night"/>
-
-</p>
-
 ---
 
 ##  GitHub Achievements
