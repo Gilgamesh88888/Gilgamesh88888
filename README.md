@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=slice&height=240&text=Agil%20Syeh%20Febukhori&fontSize=42&fontAlign=70&fontAlignY=40&desc=Fourth%20Great%20Ninja%20War%20%E2%80%A2%20Dev%20Mode&descAlign=70&descAlignY=60&color=0:0F172A,60:1D4ED8,100:60A5FA&fontColor=ffffff&animation=scaleIn"/>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Agil%20Syeh%20Febukhori&fontSize=42&fontAlignY=40&color=0:0F172A,100:2563EB&fontColor=ffffff"/>
 
 
