@@ -144,10 +144,12 @@ I’m passionate about turning ideas into real solutions, continuously learning 
 <p align="center">
   <img src="https://media.giphy.com/media/jOspuVRZWqvEzDQ28A/giphy.gif" width="230" alt="Sage Mode Entry"/>
   &nbsp;
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ4MDJxZ2FwMTYwZm9tcHlrbGhxaHh5Y21yNDZ5NmxuNmtrc2tzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDOI1FqYEyTxkW0MEI/giphy.gif" width="230" alt="Kicau Mania"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNjMGdnM2pjZ3Q0dzQ1a2RrYm81cWhlNzNxam42ejh3N21jcW5mZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nzz86dByLtYTS/giphy.gif" width="230" alt="Naruto vs Pain"/>
   &nbsp;
   <img src="https://media.giphy.com/media/BzJsxLoe112BW/giphy.gif" width="230" alt="Rasengan Hit"/>
 </p>
+
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,100:2563EB" width="100%" alt="Footer"/>
