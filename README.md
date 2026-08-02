@@ -28,8 +28,9 @@ Motto     : Build • Learn • Ship
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
+<p align="center">
 <table>
   <tr>
     <th align="center" width="140"> Languages</th>
@@ -48,6 +49,7 @@ Motto     : Build • Learn • Ship
     <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postgres" alt="Tools"/></td>
   </tr>
 </table>
+</p>
 
 ---
 
