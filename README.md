@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Agil%20Syeh%20Febukhori&fontSize=42&fontAlignY=40&color=0:0F172A,100:2563EB&fontColor=ffffff&animation=twinkling&stroke=000000&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%&fontSize=42&fontAlignY=40&color=0:0F172A,100:2563EB&fontColor=ffffff&animation=twinkling&stroke=000000&strokeWidth=1"/>
 
 
 
