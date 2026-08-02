@@ -1,153 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Agil%20Syeh%20Febukhori&fontSize=42&fontAlignY=40&color=0:0F172A,100:2563EB&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Agil%20Syeh%20Febukhori&fontSize=44&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%20%26%20ML%20%7C%20Crypto&descSize=18&descAlignY=70&color=0:0F172A,100:2563EB&fontColor=ffffff" width="100%" alt="Header"/>
 
-# 👋 Hi, I'm Agil Syeh Febukhori
+# 👋 Hi, I'm **Agil Syeh Febukhori**
 
-###  Full Stack Developer •  AI & Machine Learning •  Crypto & Market Analysis
+### ⚡ Full Stack Developer&nbsp;&nbsp;•&nbsp;&nbsp;🤖 AI & Machine Learning&nbsp;&nbsp;•&nbsp;&nbsp;📊 Crypto & Market Analysis
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Crypto+%26+Market+Analysis;Web3+Explorer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Crypto+%26+Market+Analysis;Web3+Explorer;Always+Learning+New+Things" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=Gilgamesh88888&style=for-the-badge&color=2563EB"/>
+<br/>
+
+<a href="https://github.com/Gilgamesh88888">
+<img src="https://komarev.com/ghpvc/?username=Gilgamesh88888&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS&logo=eye&logoColor=white" alt="Views"/>
+</a>
 
 </div>
 
 ---
 
-#  About Me
+## 🧠 About Me
 
 ```yaml
 Name      : Agil Syeh Febukhori
 Location  : Indonesia 🇮🇩
-Focus     : Full Stack Development
-Learning  : AI • Machine Learning • Blockchain
-Interest  : Crypto • Technical Analysis • Web3
+Role      : Full Stack Developer
+Focus     : AI • Machine Learning • Blockchain
+Passion   : Crypto • Technical Analysis • Web3
+Motto     : Build • Learn • Ship 🚀
 ```
 
 ---
 
-#  Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+<table>
+  <tr>
+    <th align="center" width="140">🌐 Languages</th>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <th align="center" width="140">🚀 Frameworks</th>
+    <td align="center"><img src="https://skillicons.dev/icons?i=laravel,flask,bootstrap,nodejs,react" alt="Frameworks"/></td>
+  </tr>
+  <tr>
+    <th align="center" width="140">🗄️ Database</th>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database"/></td>
+  </tr>
+  <tr>
+    <th align="center" width="140">🔧 Tools</th>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postgres" alt="Tools"/></td>
+  </tr>
+</table>
 
-<p align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css"/>
-
-</p>
-
-### Frameworks
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,flask,bootstrap,nodejs,react"/>
-
-</p>
-
-### Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-</p>
-
-### Tools
+## 🤖 AI & Machine Learning
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postgres"/>
-
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 ---
 
-#  AI & Machine Learning
+## 📊 Crypto & Market Analysis
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
-
+<img src="https://img.shields.io/badge/Crypto-0F172A?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Crypto"/>
+<img src="https://img.shields.io/badge/Technical%20Analysis-2563EB?style=for-the-badge" alt="Technical Analysis"/>
+<img src="https://img.shields.io/badge/Price%20Action-16A34A?style=for-the-badge" alt="Price Action"/>
+<img src="https://img.shields.io/badge/Market%20Structure-9333EA?style=for-the-badge" alt="Market Structure"/>
+<img src="https://img.shields.io/badge/Risk%20Management-DC2626?style=for-the-badge" alt="Risk Management"/>
+<img src="https://img.shields.io/badge/Web3-6366F1?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3"/>
 </p>
 
 ---
 
-#  Crypto & Market Analysis
+## 📈 GitHub Analytics
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Gilgamesh88888&theme=tokyonight&hide_border=true&background=0F172A"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Gilgamesh88888&theme=tokyonight&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=Gilgamesh88888&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </picture>
+</p>
 
-<img src="https://img.shields.io/badge/Crypto-111827?style=for-the-badge&logo=bitcoin"/>
-
-<img src="https://img.shields.io/badge/Technical%20Analysis-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Price%20Action-16A34A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Market%20Structure-9333EA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Risk%20Management-DC2626?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Web3-6366F1?style=for-the-badge"/>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Gilgamesh88888&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=60A5FA&line=2563EB&point=ffffff"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Gilgamesh88888&theme=tokyo-night&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gilgamesh88888&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  </picture>
 </p>
 
 ---
 
-#  GitHub Analytics
+## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Gilgamesh88888&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gilgamesh88888&theme=tokyo-night"/>
-
+<a href="https://github.com/Gilgamesh88888?achievement=yolo&tab=achievements"><img src="https://img.shields.io/badge/YOLO-success?style=for-the-badge&logo=github&logoColor=white" alt="YOLO"/></a>
+<a href="https://github.com/Gilgamesh88888?achievement=pull-shark&tab=achievements"><img src="https://img.shields.io/badge/Pull_Shark-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark"/></a>
+<a href="https://github.com/Gilgamesh88888?achievement=quickdraw&tab=achievements"><img src="https://img.shields.io/badge/Quickdraw-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw"/></a>
+<a href="https://github.com/Gilgamesh88888?achievement=pair-extraordinaire&tab=achievements"><img src="https://img.shields.io/badge/Pair_Extraordinaire-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire"/></a>
+<a href="https://github.com/Gilgamesh88888?achievement=galaxy-brain&tab=achievements"><img src="https://img.shields.io/badge/Galaxy_Brain-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain"/></a>
 </p>
 
 ---
 
-##  GitHub Achievements
-
-<p align="center">
-
-<a href="https://github.com/Gilgamesh88888?achievement=yolo&tab=achievements">
-<img src="https://img.shields.io/badge/YOLO-Achievement-success?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-#  Connect
-
-<p align="center">
-
-<a href="https://github.com/Gilgamesh88888">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-
-#  Quote
+## 🌐 Connect
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Manners%20Maketh%20Man&author=Kingsman" alt="quote" />
+  <a href="https://github.com/Gilgamesh88888">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+  </a>
+</div>
 
-  <br/><br/>
+---
 
-## ⭐ Thanks for visiting my profile!
+## 💬 Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,100:2563EB"/>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Manners%20Maketh%20Man&author=Kingsman" alt="quote"/>
+
+<br/><br/>
+
+### ✨ Thanks for visiting my profile! ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,100:2563EB" width="100%" alt="Footer"/>
 
 </div>
