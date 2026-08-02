@@ -126,7 +126,9 @@ Motto     : Build • Learn • Ship
 
 ### ✨ Thanks for visiting my profile! ✨
 <p align="center">
-  <img src="https://media.giphy.com/media/12754FUAz1Ks5q/giphy.gif" width="280" alt="Rasengan"/>
+  <img src="https://media.giphy.com/media/jOspuVRZWqvEzDQ28A/giphy.gif" width="280" alt="Sage Mode Entry"/>
+  &nbsp;
+  <img src="https://media.giphy.com/media/BzJsxLoe112BW/giphy.gif" width="280" alt="Rasengan Hit"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,100:2563EB" width="100%" alt="Footer"/>
