@@ -30,7 +30,8 @@ Motto     : Build • Learn • Ship
 
 ##  Tech Stack
 
-<p table="center">
+<table>
+  <p align="center">
   <tr>
     <th align="center" width="140"> Languages</th>
     <td align="center"><img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css" alt="Languages"/></td>
@@ -47,6 +48,7 @@ Motto     : Build • Learn • Ship
     <th align="center" width="140"> Tools</th>
     <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postgres" alt="Tools"/></td>
   </tr>
+    <p>
 <table>
 
 ---
