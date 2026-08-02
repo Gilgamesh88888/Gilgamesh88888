@@ -146,7 +146,7 @@ I’m passionate about turning ideas into real solutions, continuously learning 
   &nbsp;
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNjMGdnM2pjZ3Q0dzQ1a2RrYm81cWhlNzNxam42ejh3N21jcW5mZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nzz86dByLtYTS/giphy.gif" width="230" alt="Naruto vs Pain"/>
   &nbsp;
-  <img src="https://media.giphy.com/media/BzJsxLoe112BW/giphy.gif" width="230" alt="Rasengan Hit"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjRydmhhYmd2OGMycDNpNHZza2w3YnZtOGgzaHVzMmFqZzlmZjdkcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ucwWwj8WI4PZNUbqC/giphy.gif" width="230" alt="Hit"/>
 </p>
 
 
