@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Agil%20Syeh%20Febukhori&fontSize=42&fontAlignY=40&color=0:0F172A,100:2563EB&fontColor=ffffff"/>
 
 
-# 👋 Hi, I'm **Agil Syeh Febukhori**
+#  Hi, I'm **Agil Syeh Febukhori**
 
-### ⚡ Full Stack Developer&nbsp;&nbsp;•&nbsp;&nbsp;🤖 AI & Machine Learning&nbsp;&nbsp;•&nbsp;&nbsp;📊 Crypto & Market Analysis
+###  Full Stack Developer&nbsp;&nbsp;•&nbsp;&nbsp; AI & Machine Learning&nbsp;&nbsp;•&nbsp;&nbsp; Crypto & Market Analysis
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Crypto+%26+Market+Analysis;Web3+Explorer;Always+Learning+New+Things" alt="Typing SVG"/>
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```yaml
 Name      : Agil Syeh Febukhori
@@ -27,7 +27,7 @@ Location  : Indonesia 🇮🇩
 Role      : Full Stack Developer
 Focus     : AI • Machine Learning • Blockchain
 Passion   : Crypto • Technical Analysis • Web3
-Motto     : Build • Learn • Ship 🚀
+Motto     : Build • Learn • Ship 
 ```
 
 ---
@@ -36,26 +36,26 @@ Motto     : Build • Learn • Ship 🚀
 
 <table>
   <tr>
-    <th align="center" width="140">🌐 Languages</th>
+    <th align="center" width="140"> Languages</th>
     <td align="center"><img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css" alt="Languages"/></td>
   </tr>
   <tr>
-    <th align="center" width="140">🚀 Frameworks</th>
+    <th align="center" width="140"> Frameworks</th>
     <td align="center"><img src="https://skillicons.dev/icons?i=laravel,flask,bootstrap,nodejs,react" alt="Frameworks"/></td>
   </tr>
   <tr>
-    <th align="center" width="140">🗄️ Database</th>
+    <th align="center" width="140"> Database</th>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database"/></td>
   </tr>
   <tr>
-    <th align="center" width="140">🔧 Tools</th>
+    <th align="center" width="140"> Tools</th>
     <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postgres" alt="Tools"/></td>
   </tr>
 </table>
 
 ---
 
-## 🤖 AI & Machine Learning
+##  AI & Machine Learning
 
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -66,7 +66,7 @@ Motto     : Build • Learn • Ship 🚀
 
 ---
 
-## 📊 Crypto & Market Analysis
+##  Crypto & Market Analysis
 
 <p align="center">
 <img src="https://img.shields.io/badge/Crypto-0F172A?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Crypto"/>
@@ -79,7 +79,7 @@ Motto     : Build • Learn • Ship 🚀
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <picture>
@@ -99,19 +99,15 @@ Motto     : Build • Learn • Ship 🚀
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <p align="center">
 <a href="https://github.com/Gilgamesh88888?achievement=yolo&tab=achievements"><img src="https://img.shields.io/badge/YOLO-success?style=for-the-badge&logo=github&logoColor=white" alt="YOLO"/></a>
-<a href="https://github.com/Gilgamesh88888?achievement=pull-shark&tab=achievements"><img src="https://img.shields.io/badge/Pull_Shark-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark"/></a>
-<a href="https://github.com/Gilgamesh88888?achievement=quickdraw&tab=achievements"><img src="https://img.shields.io/badge/Quickdraw-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw"/></a>
-<a href="https://github.com/Gilgamesh88888?achievement=pair-extraordinaire&tab=achievements"><img src="https://img.shields.io/badge/Pair_Extraordinaire-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire"/></a>
-<a href="https://github.com/Gilgamesh88888?achievement=galaxy-brain&tab=achievements"><img src="https://img.shields.io/badge/Galaxy_Brain-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain"/></a>
 </p>
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 <div align="center">
   <a href="https://github.com/Gilgamesh88888">
@@ -121,7 +117,7 @@ Motto     : Build • Learn • Ship 🚀
 
 ---
 
-## 💬 Quote
+##  Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Manners%20Maketh%20Man&author=Kingsman" alt="quote"/>
@@ -129,6 +125,9 @@ Motto     : Build • Learn • Ship 🚀
 <br/><br/>
 
 ### ✨ Thanks for visiting my profile! ✨
+<p align="center">
+  <img src="https://media.giphy.com/media/12754FUAz1Ks5q/giphy.gif" width="280" alt="Rasengan"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,100:2563EB" width="100%" alt="Footer"/>
 
