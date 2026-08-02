@@ -138,14 +138,13 @@ Interest  : Crypto • Technical Analysis • Web3
 
 ---
 
+
+##  Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Manners%20Maketh%20Man&author=Kingsman" alt="quote" />
 
   <br/><br/>
-
-##  Quote
-
-> **"Manners Maketh Man"**
 
 ⭐ Thanks for visiting my profile!
 
