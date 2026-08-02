@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 20" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 20" preserveAspectRatio="none" role="img" aria-label="Section divider">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#0F172A" stop-opacity="0"/>
       <stop offset="50%"  stop-color="#3B82F6" stop-opacity="1"/>
       <stop offset="100%" stop-color="#0F172A" stop-opacity="0"/>
     </linearGradient>
-    <filter id="glow">
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
       <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
@@ -14,8 +14,8 @@
     </filter>
   </defs>
   <line x1="0" y1="10" x2="1200" y2="10" stroke="url(#grad)" stroke-width="2" filter="url(#glow)"/>
-  <circle cx="600" cy="10" r="4" fill="#3B82F6" filter="url(#glow)">
+  <circle cx="0" cy="10" r="4" fill="#3B82F6" filter="url(#glow)">
     <animate attributeName="cx" values="0;1200;0" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="3;6;3" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="r"  values="3;6;3"    dur="1.5s" repeatCount="indefinite"/>
   </circle>
 </svg>
