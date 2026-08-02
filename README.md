@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Agil%20Syeh%20Febukhori&fontSize=44&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%20%26%20ML%20%7C%20Crypto&descSize=18&descAlignY=70&color=0:0F172A,100:2563EB&fontColor=ffffff" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Agil%20Syeh%20Febukhori&fontSize=42&fontAlignY=40&color=0:0F172A,100:2563EB&fontColor=ffffff"/>
+
 
 # 👋 Hi, I'm **Agil Syeh Febukhori**
 
