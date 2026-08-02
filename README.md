@@ -141,10 +141,13 @@ I’m passionate about turning ideas into real solutions, continuously learning 
 
 ## ✨ Thanks for visiting my profile! ✨
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/jOspuVRZWqvEzDQ28A/giphy.gif" width="230" alt="Sage Mode Entry"/>
-  <img src="[URL_GIF_KICAU_MANIA" width="230" alt="Kicau Mania](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ4MDJxZ2FwMTYwZm9tcHlrbGhxaHh5Y21yNDZ5NmxuNmtrc2tzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDOI1FqYEyTxkW0MEI/giphy.gif)"/> 
+  &nbsp;
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ4MDJxZ2FwMTYwZm9tcHlrbGhxaHh5Y21yNDZ5NmxuNmtrc2tzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDOI1FqYEyTxkW0MEI/giphy.gif" width="230" alt="Kicau Mania"/>
+  &nbsp;
   <img src="https://media.giphy.com/media/BzJsxLoe112BW/giphy.gif" width="230" alt="Rasengan Hit"/>
-</div>
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,100:2563EB" width="100%" alt="Footer"/>
