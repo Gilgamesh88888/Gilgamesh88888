@@ -141,10 +141,10 @@ I’m passionate about turning ideas into real solutions, continuously learning 
 
 ## ✨ Thanks for visiting my profile! ✨
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jOspuVRZWqvEzDQ28A/giphy.gif" width="280" alt="Sage Mode Entry"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/BzJsxLoe112BW/giphy.gif" width="280" alt="Rasengan Hit"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/jOspuVRZWqvEzDQ28A/giphy.gif" width="230" alt="Sage Mode Entry"/>
+  <img src="URL_GIF_KICAU_MANIA" width="230" alt="Kicau Mania"/>
+  <img src="https://media.giphy.com/media/BzJsxLoe112BW/giphy.gif" width="230" alt="Rasengan Hit"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,100:2563EB" width="100%" alt="Footer"/>
