@@ -5,18 +5,13 @@
 
 #  Hi, I'm **Agil Syeh Febukhori**
 
-###  Full Stack Developer&nbsp;&nbsp;•&nbsp;&nbsp; AI & Machine Learning&nbsp;&nbsp;•&nbsp;&nbsp; Crypto & Market Analysis
+###  Full Stack Developer •  AI & Machine Learning •  Crypto & Market Analysis
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Crypto+%26+Market+Analysis;Web3+Explorer;Always+Learning+New+Things" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Crypto+%26+Market+Analysis;Web3+Explorer;Always+Learning+New+Things"/>
 
-<br/>
-
-<a href="https://github.com/Gilgamesh88888">
-<img src="https://komarev.com/ghpvc/?username=Gilgamesh88888&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS&logo=eye&logoColor=white" alt="Views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Gilgamesh88888&style=for-the-badge&color=2563EB"/>
 
 </div>
-
 ---
 
 ##  About Me
