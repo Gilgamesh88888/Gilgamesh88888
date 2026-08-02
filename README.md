@@ -143,7 +143,7 @@ I’m passionate about turning ideas into real solutions, continuously learning 
 
 <div align="center">
   <img src="https://media.giphy.com/media/jOspuVRZWqvEzDQ28A/giphy.gif" width="230" alt="Sage Mode Entry"/>
-  <img src="URL_GIF_KICAU_MANIA" width="230" alt="Kicau Mania"/> 
+  <img src="[URL_GIF_KICAU_MANIA" width="230" alt="Kicau Mania](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ4MDJxZ2FwMTYwZm9tcHlrbGhxaHh5Y21yNDZ5NmxuNmtrc2tzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDOI1FqYEyTxkW0MEI/giphy.gif)"/> 
   <img src="https://media.giphy.com/media/BzJsxLoe112BW/giphy.gif" width="230" alt="Rasengan Hit"/>
 </div>
 
