@@ -29,7 +29,13 @@ Struktur akhir di repo `Gilgamesh88888/Gilgamesh88888`:
 └── SETUP.md   (opsional, boleh dihapus setelah setup)
 ```
 
-## 3. Aktifkan Snake Animation
+## 3. Fix Snake Animation Error
+
+Kalau workflow gagal dengan error **`Cannot find module 'canvas'`**, itu bug di action
+`Platane/snk/svg-only@v3` yang sudah tidak di-maintain. Solusinya sudah diterapkan di
+workflow ini — pakai `Platane/snk@master` yang masih aktif.
+
+### Langkah aktivasi:
 
 1. Push semua file ke branch `main`.
 2. Buka tab **Actions** di repo → cari workflow **"Generate Snake Animation"**.
