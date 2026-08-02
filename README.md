@@ -60,7 +60,7 @@ I’m passionate about turning ideas into real solutions, continuously learning 
   <tr>
     <th align="center" width="160">Tools</th>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" alt="Tools"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,solidity" alt="Tools"/>
     </td>
   </tr>
 </table>
