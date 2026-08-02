@@ -1,83 +1,97 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ꦩꦤꦸꦤ꧀ꦒ꧀ꦒꦭꦶꦤ꧀ꦒ꧀&fontSize=42&fontAlignY=40&color=0:0F172A,100:2563EB&fontColor=ffffff&animation=twinkling&stroke=000000&strokeWidth=1" alt="Header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ꦩꦤꦸꦤ꧀ꦒ꧀ꦒꦭꦶꦤ꧀ꦒ꧀%&fontSize=42&fontAlignY=40&color=0:0F172A,100:2563EB&fontColor=ffffff&animation=twinkling&stroke=000000&strokeWidth=1"/>
+# Hi, I'm **Agil Syeh Febukhori**
 
+### Full Stack Developer • AI & Machine Learning • Crypto & Market Analysis
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Crypto+%26+Market+Analysis;Web3+Explorer;Always+Learning+New+Things" alt="Typing Animation"/>
 
-#  Hi, I'm **Agil Syeh Febukhori**
-
-###  Full Stack Developer •  AI & Machine Learning •  Crypto & Market Analysis
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Crypto+%26+Market+Analysis;Web3+Explorer;Always+Learning+New+Things"/>
-
-<img src="https://komarev.com/ghpvc/?username=Gilgamesh88888&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=Gilgamesh88888&style=for-the-badge&color=2563EB" alt="Profile Views"/>
 
 </div>
 
 ---
 
-##  About Me
-
-```yaml
-Name      : Agil Syeh Febukhori
-Location  : Indonesia 🇮🇩
-Role      : Full Stack Developer
-Focus     : AI • Machine Learning • Blockchain
-Passion   : Crypto • Technical Analysis • Web3
-Motto     : Build • Learn • Ship 
-```
-
----
-
-##  Tech Stack
-
-<table>
-  <tr>
-    <th align="center" width="140"> Languages</th>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css" alt="Languages"/></td>
-  </tr>
-  <tr>
-    <th align="center" width="140"> Frameworks</th>
-    <td align="center"><img src="https://skillicons.dev/icons?i=laravel,flask,bootstrap,nodejs,react" alt="Frameworks"/></td>
-  </tr>
-  <tr>
-    <th align="center" width="140"> Database</th>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database"/></td>
-  </tr>
-  <tr>
-    <th align="center" width="140"> Tools</th>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postgres" alt="Tools"/></td>
-  </tr>
-<table>
-
----
-
-##  AI & Machine Learning
+## About Me
 
 <p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+I’m a <strong>Full Stack Developer</strong> from <strong>Indonesia 🇮🇩</strong> who enjoys building impactful digital products and exploring the intersection of <strong>software engineering, AI, and blockchain</strong>.<br/>
+I’m passionate about turning ideas into real solutions, continuously learning new technologies, and sharpening my analytical mindset through <strong>crypto, technical analysis, and Web3 exploration</strong>.
+</p>
+
+<div align="center">
+
+|  |  |
+|:--|:--|
+| **Name** | Agil Syeh Febukhori |
+| **Location** | Indonesia 🇮🇩 |
+| **Role** | Full Stack Developer |
+| **Focus** | AI • Machine Learning • Blockchain |
+| **Passion** | Crypto • Technical Analysis • Web3 |
+| **Motto** | *Build • Learn • Ship* |
+
+</div>
+
+---
+
+## Tech Stack
+
+<table align="center">
+  <tr>
+    <th align="center" width="160">Languages</th>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css" alt="Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" width="160">Frameworks</th>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel,flask,bootstrap,nodejs,react" alt="Frameworks"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" width="160">Databases</th>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="Databases"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" width="160">Tools</th>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## AI & Machine Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 ---
 
-##  Crypto & Market Analysis
+## Crypto & Market Analysis
 
 <p align="center">
-<img src="https://img.shields.io/badge/Crypto-0F172A?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Crypto"/>
-<img src="https://img.shields.io/badge/Technical%20Analysis-2563EB?style=for-the-badge" alt="Technical Analysis"/>
-<img src="https://img.shields.io/badge/Price%20Action-16A34A?style=for-the-badge" alt="Price Action"/>
-<img src="https://img.shields.io/badge/Market%20Structure-9333EA?style=for-the-badge" alt="Market Structure"/>
-<img src="https://img.shields.io/badge/Risk%20Management-DC2626?style=for-the-badge" alt="Risk Management"/>
-<img src="https://img.shields.io/badge/Web3-6366F1?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3"/>
+  <img src="https://img.shields.io/badge/Crypto-0F172A?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Crypto"/>
+  <img src="https://img.shields.io/badge/Technical%20Analysis-2563EB?style=for-the-badge" alt="Technical Analysis"/>
+  <img src="https://img.shields.io/badge/Price%20Action-16A34A?style=for-the-badge" alt="Price Action"/>
+  <img src="https://img.shields.io/badge/Market%20Structure-9333EA?style=for-the-badge" alt="Market Structure"/>
+  <img src="https://img.shields.io/badge/Risk%20Management-DC2626?style=for-the-badge" alt="Risk Management"/>
+  <img src="https://img.shields.io/badge/Web3-6366F1?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3"/>
 </p>
 
 ---
 
-##  GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <picture>
@@ -97,34 +111,36 @@ Motto     : Build • Learn • Ship
 
 ---
 
-##  GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
-<a href="https://github.com/Gilgamesh88888?achievement=yolo&tab=achievements"><img src="https://img.shields.io/badge/YOLO-success?style=for-the-badge&logo=github&logoColor=white" alt="YOLO"/></a>
+  <a href="https://github.com/Gilgamesh88888?achievement=yolo&tab=achievements">
+    <img src="https://img.shields.io/badge/YOLO-success?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Achievement"/>
+  </a>
 </p>
 
 ---
 
-##  Connect
+## Connect With Me
 
 <div align="center">
-  <a href="https://github.com/Gilgamesh88888">
+  <a href="https://github.com/Gilgamesh88888" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
   </a>
 </div>
 
 ---
 
-##  Quote
+## Quote
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Manners%20Maketh%20Man&author=Kingsman" alt="quote"/>
-
-<br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Manners%20Maketh%20Man&author=Kingsman" alt="Quote"/>
+</div>
 
 ---
 
 ## ✨ Thanks for visiting my profile! ✨
+
 <p align="center">
   <img src="https://media.giphy.com/media/jOspuVRZWqvEzDQ28A/giphy.gif" width="280" alt="Sage Mode Entry"/>
   &nbsp;
@@ -132,5 +148,3 @@ Motto     : Build • Learn • Ship
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,100:2563EB" width="100%" alt="Footer"/>
-
-</div>
