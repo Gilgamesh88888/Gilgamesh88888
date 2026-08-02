@@ -47,7 +47,7 @@ Motto     : Build • Learn • Ship
     <th align="center" width="140"> Tools</th>
     <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postgres" alt="Tools"/></td>
   </tr>
-<p table>
+<table>
 
 ---
 
