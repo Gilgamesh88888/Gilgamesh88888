@@ -94,11 +94,11 @@ const agil: Developer = {
 
 <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Technical%20Analysis-2563EB?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Price%20Action-16A34A?style=for-the-badge&logo=tradingview&logoColor=white"/>
+<img src="https://img.shields.io/badge/Technical%20Analysis-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Price%20Action-16A34A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Market%20Structure-9333EA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Risk%20Management-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web3-6366F1?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DeFi-FF007A?style=for-the-badge&logo=uniswap&logoColor=white"/>
 
 </div>
@@ -122,19 +122,10 @@ const agil: Developer = {
 
 <br/><br/>
 
+<!-- 🐍 Contribution Snake — aktifkan kembali setelah workflow "Generate Snake Animation" sukses & branch 'output' terbentuk
 ### 🐍 Contribution Snake
-
 <img src="https://raw.githubusercontent.com/Gilgamesh88888/Gilgamesh88888/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Gilgamesh88888/Gilgamesh88888/main/assets/divider.svg" width="100%"/>
-
-## <img src="https://media.giphy.com/media/CaS9NNso512WJ4po0k/giphy.gif" width="30"/> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gilgamesh88888&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+-->
 
 </div>
 
