@@ -124,7 +124,7 @@ Motto     : Build • Learn • Ship
 
 <br/><br/>
 
-### ✨ Thanks for visiting my profile! ✨
+## ✨ Thanks for visiting my profile! ✨
 <p align="center">
   <img src="https://media.giphy.com/media/jOspuVRZWqvEzDQ28A/giphy.gif" width="280" alt="Sage Mode Entry"/>
   &nbsp;
