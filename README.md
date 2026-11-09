@@ -32,7 +32,7 @@ I'm passionate about turning ideas into real solutions, continuously learning ne
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1500&color=94A3B8&center=true&vCenter=true&width=640&lines=🔭+Currently+building+full-stack+apps;🌱+Deep-diving+AI+%26+Machine+Learning;📈+Charting+crypto+markets+with+TA;🍥+Naruto+fan+•+Manners+Maketh+Man;🚀+Always+shipping+something+new" alt="Fun Facts"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1500&color=94A3B8&center=true&vCenter=true&width=640&lines=%F0%9F%94%AD+Currently+building+full-stack+apps;%F0%9F%8C%B1+Deep-diving+AI+%26+Machine+Learning;%F0%9F%93%88+Charting+crypto+markets+with+TA;%F0%9F%8D%A5+Naruto+fan+%E2%80%A2+Manners+Maketh+Man;%F0%9F%9A%80+Always+shipping+something+new" alt="Fun Facts"/>
 </p>
 
 <div align="center">
