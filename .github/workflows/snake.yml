@@ -1,0 +1,43 @@
+# ============================================================
+#  SNAKE KONTRIBUSI ANIMASI 🐍
+#  Salin file ini ke: .github/workflows/snake.yml
+#  di repo profil kamu (repo dengan nama sama seperti username:
+#  Gilgamesh88888/Gilgamesh88888).
+#
+#  Ular akan otomatis "memakan" kotak kontribusi setiap hari
+#  dan hasilnya di-push ke branch "output", lalu tampil di README.
+# ============================================================
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # jalan otomatis setiap hari jam 00:00 UTC
+  workflow_dispatch:       # bisa juga dijalankan manual dari tab Actions
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVG (versi light + dark)
+        uses: Platane/snk/svg-only-action@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push hasil ke branch "output"
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

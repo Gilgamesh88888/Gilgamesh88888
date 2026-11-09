@@ -1,0 +1,43 @@
+# ============================================================
+#  GRAFIK KONTRIBUSI 3D 🧊
+#  Salin file ini ke: .github/workflows/profile-3d.yml
+#  di repo profil kamu (repo dengan nama sama seperti username:
+#  Gilgamesh88888/Gilgamesh88888).
+#
+#  Membuat kota 3D rainbow dari kontribusi GitHub kamu
+#  dan otomatis commit hasilnya ke folder profile-3d-contrib/.
+# ============================================================
+
+name: Generate 3D Contribution
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # jalan otomatis setiap hari jam 01:00 UTC
+  workflow_dispatch:       # bisa juga dijalankan manual dari tab Actions
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate profil 3D
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push hasil
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git commit -m "chore: update 3D contribution graph" || echo "tidak ada perubahan"
+          git push
