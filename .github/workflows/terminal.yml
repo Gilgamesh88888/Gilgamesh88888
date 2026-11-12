@@ -1,0 +1,34 @@
+name: Refresh Terminal Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # tiap hari 00:00 UTC
+  workflow_dispatch:       # bisa dijalankan manual dari tab Actions
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build stats.svg from real GitHub data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/build.mjs
+
+      - name: Commit refreshed stats
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add assets/stats.svg
+          git diff --cached --quiet || git commit -m "chore: refresh terminal stats"
+          git push

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <defs>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="lineg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22C55E" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22C55E" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-900 0; 900 0" dur="3.5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="240" fill="url(#hg)"/>
+  <g stroke="#1E293B" stroke-width="1" opacity="0.55">
+    <line x1="0" y1="60" x2="900" y2="60"/><line x1="0" y1="110" x2="900" y2="110"/>
+    <line x1="0" y1="160" x2="900" y2="160"/><line x1="0" y1="210" x2="900" y2="210"/>
+    <line x1="150" y1="0" x2="150" y2="240"/><line x1="450" y1="0" x2="450" y2="240"/><line x1="750" y1="0" x2="750" y2="240"/>
+  </g>
+  <g stroke-width="1.5">
+    <g stroke="#22C55E" fill="#16A34A">
+      <line x1="565" y1="140" x2="565" y2="196"/><rect x="556" y="152" width="18" height="32" rx="2"/>
+      <line x1="625" y1="120" x2="625" y2="180"/><rect x="616" y="130" width="18" height="38" rx="2"/>
+      <line x1="685" y1="96"  x2="685" y2="158"/><rect x="676" y="108" width="18" height="36" rx="2"/>
+      <line x1="745" y1="76"  x2="745" y2="140"/><rect x="736" y="86" width="18" height="40" rx="2"/>
+      <line x1="805" y1="56"  x2="805" y2="118"/><rect x="796" y="66" width="18" height="38" rx="2"/>
+    </g>
+    <g stroke="#EF4444" fill="#DC2626">
+      <line x1="595" y1="150" x2="595" y2="205"/><rect x="586" y="162" width="18" height="30" rx="2"/>
+      <line x1="655" y1="132" x2="655" y2="188"/><rect x="646" y="142" width="18" height="32" rx="2"/>
+      <line x1="715" y1="108" x2="715" y2="166"/><rect x="706" y="118" width="18" height="34" rx="2"/>
+      <line x1="775" y1="88"  x2="775" y2="148"/><rect x="766" y="98" width="18" height="36" rx="2"/>
+      <line x1="835" y1="66"  x2="835" y2="130"/><rect x="826" y="78" width="18" height="38" rx="2"/>
+      <animate attributeName="opacity" values="1;0.55;1" dur="4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g fill="#93C5FD">
+    <circle cx="120" cy="48" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="36" r="1.3"><animate attributeName="opacity" values="1;0.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="505" cy="70" r="1.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="240" cy="120" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="3.6s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="24" y="30" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#64748B" letter-spacing="2">AGIL://TERMINAL v2.0</text>
+  <circle cx="864" cy="26" r="4" fill="#22C55E"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="828" y="30" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#4ADE80" letter-spacing="2">LIVE</text>
+  <text x="450" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#FFFFFF">Agil Syeh Febukhori</text>
+  <text x="450" y="138" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" fill="#93C5FD" letter-spacing="4">FULL STACK &#183; AI / ML &#183; CRYPTO &amp; MARKETS</text>
+  <text x="450" y="172" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#4ADE80" letter-spacing="2">BUILD &#8226; LEARN &#8226; SHIP</text>
+  <path d="M0 214 L90 204 L180 209 L270 192 L360 198 L450 182 L540 188 L630 170 L720 176 L810 158 L900 164" fill="none" stroke="url(#lineg)" stroke-width="2" pathLength="100" stroke-dasharray="100">
+    <animate attributeName="stroke-dashoffset" values="100;0;0" keyTimes="0;0.7;1" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <rect x="0" y="236" width="900" height="4" fill="url(#shimmer)"/>
+</svg>

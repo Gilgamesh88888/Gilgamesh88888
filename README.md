@@ -1,106 +1,114 @@
+<!--
+   ╭──────────────────────────────────────╮
+   │  >_  oh, hi. kamu membuka source.    │
+   ╰──────────────┬───────────────────────╯
+                  │
+   ACHIEVEMENT UNLOCKED · SOURCE READER
+
+   how the stats work (no fake numbers):
+     semua angka di assets/stats.svg diambil dari GitHub API
+     oleh .github/workflows/terminal.yml + scripts/build.mjs
+     kalau API gagal, angkanya tetap "—" — bukan karangan.
+
+   this file is hand-written. edit langsung, atau regenerate stats
+   lewat tab Actions -> Refresh Terminal Stats -> Run workflow.
+-->
+
+<a name="top"></a>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Agil%20Syeh%20Febukhori&fontSize=44&fontAlignY=38&desc=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Ship&descAlignY=60&descSize=18&color=0:0F172A,50:2563EB,100:7C3AED&fontColor=ffffff&animation=twinkling&stroke=93C5FD&strokeWidth=1" width="100%" alt="Agil Syeh Febukhori"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;AI+%26+Machine+Learning;Crypto+%26+Market+Analysis;Turning+Ideas+Into+Real+Products" alt="Typing"/>
-
-<br/>
-
-<a href="https://github.com/Gilgamesh88888?tab=followers">
-  <img src="assets/status-pulse.svg" alt="Open to Collaborate"/>
-</a>
-&nbsp;
-<a href="https://github.com/Gilgamesh88888">
-  <img src="https://komarev.com/ghpvc/?username=Gilgamesh88888&style=flat-square&color=2563EB&label=visitors" alt="Visitors"/>
-</a>
-
+  <img src="assets/hero.svg" width="100%" alt="Agil Syeh Febukhori — Full Stack Developer · AI/ML · Crypto &amp; Markets. Build • Learn • Ship." title="psst… ada terminal tersembunyi di bagian paling bawah.">
 </div>
 
-<img src="assets/wave-divider.svg" width="100%" alt=""/>
-
-## About
-
 <p align="center">
-I'm a <strong>Full Stack Developer</strong> from <strong>Indonesia 🇮🇩</strong>, building products across the
-<strong>web, AI, and blockchain</strong>. I like turning rough ideas into shipped, working software —
-and sharpening my analytical side through <strong>crypto markets and technical analysis</strong>.
+  <a href="#about"><img src="assets/dock-about.svg" width="18.6%" alt="ABOUT"></a>
+  <a href="#loadout"><img src="assets/dock-loadout.svg" width="18.6%" alt="LOADOUT"></a>
+  <a href="#positions"><img src="assets/dock-positions.svg" width="18.6%" alt="POSITIONS"></a>
+  <a href="#chart"><img src="assets/dock-chart.svg" width="18.6%" alt="CHART"></a>
+  <a href="#contact"><img src="assets/dock-contact.svg" width="18.6%" alt="CONTACT"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1500&color=94A3B8&center=true&vCenter=true&width=620&lines=Currently+building+full-stack+apps;Deep-diving+AI+%26+machine+learning;Charting+crypto+markets+with+TA;Manners+Maketh+Man" alt="Currently"/>
+  <b>Full Stack Developer</b> from Indonesia, building web apps, ML experiments and market tooling.<br>
+  <sub>PHP · Laravel · Python · React · TensorFlow · Solidity · currently deep in crypto TA &amp; Web3</sub>
 </p>
 
-<img src="assets/wave-divider.svg" width="100%" alt=""/>
+<a name="about"></a>
 
-## What I Do
+<img src="assets/about.svg" width="100%" alt="About — Full Stack Developer from Indonesia, building products across web, AI and blockchain. Passion: crypto, technical analysis, web3, machine learning, laravel, react. Motto: turning rough ideas into shipped, working software.">
 
-<div align="center">
+<a name="loadout"></a>
 
-| Web Engineering | AI & Data | Crypto & Markets |
-|:---:|:---:|:---:|
-| Full-stack apps with **Laravel & React** — clean architecture, from database to deployment. | **Machine learning** with TensorFlow & Scikit-Learn, powered by Pandas and NumPy. | **Technical analysis**, price action, and market structure across crypto and Web3. |
+<img src="assets/loadout.svg" width="100%" alt="Skill monitor — PHP advanced, Python advanced, Laravel advanced, React intermediate, ML/TensorFlow growing. Side inventory: MySQL, SQLite, Postgres, Solidity, Git.">
 
-</div>
+<a name="positions"></a>
 
-<img src="assets/wave-divider.svg" width="100%" alt=""/>
-
-## Stack
+<img src="assets/pos-header.svg" width="100%" alt="Open positions — featured projects">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,laravel,react,mysql,solidity&perline=8" alt="Tech Stack"/>
+  <a href="https://github.com/Gilgamesh88888?tab=repositories"><img src="assets/pos-1.svg" width="49%" alt="POS #01 · Full Stack Web — Web App Laravel Edition. Tags: Laravel, MySQL, PHP."></a>
+  <a href="https://github.com/Gilgamesh88888?tab=repositories"><img src="assets/pos-2.svg" width="49%" alt="POS #02 · AI / Machine Learning — ML Experiment &amp; Data Playground. Tags: TensorFlow, Pandas, Scikit-learn."></a>
 </p>
 
-<img src="assets/wave-divider.svg" width="100%" alt=""/>
+<p align="center">
+  <a href="https://github.com/Gilgamesh88888?tab=repositories"><img src="assets/pos-3.svg" width="49%" alt="POS #03 · Crypto / Web3 — Market Analysis &amp; Web3 Lab. Tags: Solidity, Python, Web3."></a>
+</p>
 
-## Featured Work
+<a name="chart"></a>
 
-<!-- ✏️ Ganti href & judul di bawah dengan repo kamu yang asli
-     (pin dulu 3 repo terbaik di https://github.com/Gilgamesh88888?tab=repositories) -->
+<img src="assets/stats.svg" width="100%" alt="Terminal stats — commits/year, public repos, stars, followers. Live data from GitHub API, refreshed daily.">
 
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| <a href="https://github.com/Gilgamesh88888?tab=repositories"><img src="https://img.shields.io/badge/Project%20One-0F172A?style=for-the-badge&labelColor=0F172A" alt="Project One"/></a> | <a href="https://github.com/Gilgamesh88888?tab=repositories"><img src="https://img.shields.io/badge/Project%20Two-1D4ED8?style=for-the-badge&labelColor=1D4ED8" alt="Project Two"/></a> | <a href="https://github.com/Gilgamesh88888?tab=repositories"><img src="https://img.shields.io/badge/Project%20Three-2563EB?style=for-the-badge&labelColor=2563EB" alt="Project Three"/></a> |
-| <em>Short description —<br/><code>Laravel</code> <code>MySQL</code></em> | <em>Short description —<br/><code>Python</code> <code>TensorFlow</code></em> | <em>Short description —<br/><code>React</code> <code>Node.js</code></em> |
-
-</div>
-
-<img src="assets/wave-divider.svg" width="100%" alt=""/>
-
-## Contribution Graph
-
-<!-- 🐍 Butuh GitHub Action: simpan snake.yml di .github/workflows/ repo profil ini,
-     lalu jalankan sekali dari tab Actions → Run workflow.
-     Jangan lupa: Settings → Actions → Workflow permissions → "Read and write". -->
+<!-- 🐍 The chart section: animasi ular yang "makan" kotak kontribusi.
+     Butuh GitHub Action: simpan snake.yml di .github/workflows/ (lihat PANDUAN di repo),
+     set Settings -> Actions -> Workflow permissions -> "Read and write",
+     lalu jalankan sekali dari tab Actions -> Run workflow. -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gilgamesh88888/Gilgamesh88888/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gilgamesh88888/Gilgamesh88888/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Gilgamesh88888/Gilgamesh88888/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+    <img src="https://raw.githubusercontent.com/Gilgamesh88888/Gilgamesh88888/output/github-contribution-grid-snake.svg" alt="Contribution Snake — the chart" width="100%"/>
   </picture>
 </p>
 
-<!-- 🧊 Opsional: 3D contribution. Butuh profile-3d.yml di .github/workflows/
+<a name="contact"></a>
+
+<img src="assets/save-point.svg" width="100%" alt="Save point — contact. Let's build something together.">
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gilgamesh88888/Gilgamesh88888/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" width="100%"/>
-</p>
--->
-
-<img src="assets/wave-divider.svg" width="100%" alt=""/>
-
-## Connect
-
-<div align="center">
-
-  <a href="https://github.com/Gilgamesh88888" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
-  </a>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=2000&color=F59E0B&center=true&vCenter=true&width=480&lines=Manners+Maketh+Man;%E2%80%94+Kingsman" alt="Quote"/>
+  <a href="https://github.com/Gilgamesh88888"><img src="assets/btn-github.svg" width="49%" alt="GITHUB — follow the commits"></a>
+  <a href="https://github.com/Gilgamesh88888?tab=followers"><img src="assets/btn-follow.svg" width="49%" alt="FOLLOW — join the crew"></a>
 </p>
 
-</div>
+<a href="SECRET.md"><img src="assets/footer.svg" width="100%" alt="Session closed — Agil://Terminal" title="…ada yang mengintip dari pintu belakang?"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&text=Thanks%20for%20visiting!&fontSize=26&fontAlignY=68&color=0:7C3AED,50:2563EB,100:0F172A&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer"/>
+<details>
+<summary><code>$ open terminal</code></summary>
+
+```console
+agil@terminal:~$ whoami
+agil — full stack developer · ai/ml · crypto & markets
+
+agil@terminal:~$ cat motto.txt
+BUILD • LEARN • SHIP
+secondary: Manners Maketh Man.
+
+agil@terminal:~$ ls ./currently
+building_fullstack_apps/   deep_diving_ai_ml/   charting_crypto_markets/
+
+agil@terminal:~$ cat watchlist.txt
+BTC  ETH  ...dan chart lain yang lagi trending hari ini.
+
+agil@terminal:~$ sudo hire agil
+[sudo] password for recruiter: ********
+✓ permission granted — kembali ke SAVE POINT di atas
+
+agil@terminal:~$ exit
+logout — sampai jumpa di chart berikutnya 📈
+```
+
+<kbd>↑</kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>B</kbd> <kbd>A</kbd>
+<sub>&nbsp; cheat diterima: +30 lives. sayangnya, bug juga respawn.</sub>
+
+</details>
+
+<p align="right"><a href="#top"><sub>▲ back to boot screen</sub></a></p>
