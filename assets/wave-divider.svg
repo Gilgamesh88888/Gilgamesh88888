@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="36" viewBox="0 0 900 36" fill="none">
+  <defs>
+    <linearGradient id="waveGrad" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.35" stop-color="#2563EB"/>
+      <stop offset="0.65" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0; 900 0; 0 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 18 Q 112 4 225 18 T 450 18 T 675 18 T 900 18" fill="none" stroke="url(#waveGrad)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M0 18 Q 112 4 225 18 T 450 18 T 675 18 T 900 18;
+              M0 18 Q 112 32 225 18 T 450 18 T 675 18 T 900 18;
+              M0 18 Q 112 4 225 18 T 450 18 T 675 18 T 900 18"/>
+  </path>
+  <circle cx="0" cy="18" r="4" fill="#60A5FA">
+    <animate attributeName="cx" values="0;900;0" dur="9s" repeatCount="indefinite"/>
+  </circle>
+</svg>
