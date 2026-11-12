@@ -8,6 +8,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=880&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Crypto+%26+Market+Analysis;Web3+Explorer;Laravel+%2B+React+Craftsman;Turning+Ideas+Into+Real+Products;Manners+Maketh+Man;Always+Learning+New+Things" alt="Typing Animation"/>
 
+<!-- 🧭 NAV BAR — klik untuk lompat ke bagian -->
+<a href="#about"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20About-0F172A?style=for-the-badge&labelColor=0F172A" alt="About"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack-1D4ED8?style=for-the-badge&labelColor=1D4ED8" alt="Tech Stack"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/%F0%9F%93%82%20Projects-2563EB?style=for-the-badge&labelColor=2563EB" alt="Projects"/></a>
+<a href="#stats"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20Stats-7C3AED?style=for-the-badge&labelColor=7C3AED" alt="Stats"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Contact-0F172A?style=for-the-badge&labelColor=0F172A" alt="Contact"/></a>
+
 <a href="https://github.com/Gilgamesh88888">
   <img src="https://komarev.com/ghpvc/?username=Gilgamesh88888&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views"/>
 </a>
@@ -22,7 +29,7 @@
 
 </div>
 
----
+<a name="about"></a>
 
 ## 🚀 About Me
 
@@ -37,75 +44,116 @@ I'm passionate about turning ideas into real solutions, continuously learning ne
 
 <div align="center">
 
-|  |  |
-|:--|:--|
-| **👤 Name** | Agil Syeh Febukhori |
-| **📍 Location** | Indonesia 🇮🇩 |
-| **💼 Role** | Full Stack Developer |
-| **🎯 Focus** | AI • Machine Learning • Blockchain |
-| **🔥 Passion** | Crypto • Technical Analysis • Web3 |
-| **🔭 Currently** | Building full-stack apps & exploring Web3 |
-| **💬 Ask Me About** | PHP • Laravel • Python • Crypto TA |
-| **⚡ Motto** | *Build • Learn • Ship* |
+<table>
+  <tr><th align="center">👤</th><td><strong>Agil Syeh Febukhori</strong></td><th align="center">📍</th><td>Indonesia 🇮🇩</td></tr>
+  <tr><th align="center">💼</th><td>Full Stack Developer</td><th align="center">🎯</th><td>AI • Machine Learning • Blockchain</td></tr>
+  <tr><th align="center">🔥</th><td>Crypto • Technical Analysis • Web3</td><th align="center">🔭</th><td>Building full-stack apps & exploring Web3</td></tr>
+  <tr><th align="center">💬</th><td>Ask me about PHP • Laravel • Python • Crypto TA</td><th align="center">⚡</th><td><em>Build • Learn • Ship</em></td></tr>
+</table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+
+<a name="tech-stack"></a>
 
 ## 🛠️ Tech Stack
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
-    <th align="center" width="160">Languages</th>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css" alt="Languages"/>
-    </td>
+    <th align="center">🌐 Languages</th>
   </tr>
   <tr>
-    <th align="center" width="160">Frameworks</th>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=laravel,flask,bootstrap,nodejs,react" alt="Frameworks"/>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css&perline=12" alt="Languages"/></td>
   </tr>
   <tr>
-    <th align="center" width="160">Databases</th>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="Databases"/>
-    </td>
+    <th align="center">⚙️ Frameworks</th>
   </tr>
   <tr>
-    <th align="center" width="160">Tools</th>
+    <td align="center"><img src="https://skillicons.dev/icons?i=laravel,flask,bootstrap,nodejs,react&perline=12" alt="Frameworks"/></td>
+  </tr>
+  <tr>
+    <th align="center">🗄️ Databases & DevOps</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,git,github,vscode,figma,solidity&perline=12" alt="Databases & Tools"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th align="center" width="50%">🤖 AI & Machine Learning</th>
+    <th align="center" width="50%">💹 Crypto & Market Analysis</th>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,solidity" alt="Tools"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Crypto-0F172A?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Crypto"/>
+      <img src="https://img.shields.io/badge/Technical%20Analysis-2563EB?style=for-the-badge" alt="Technical Analysis"/><br/>
+      <img src="https://img.shields.io/badge/Price%20Action-16A34A?style=for-the-badge" alt="Price Action"/>
+      <img src="https://img.shields.io/badge/Market%20Structure-9333EA?style=for-the-badge" alt="Market Structure"/><br/>
+      <img src="https://img.shields.io/badge/Risk%20Management-DC2626?style=for-the-badge" alt="Risk Management"/>
+      <img src="https://img.shields.io/badge/Web3-6366F1?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3"/>
     </td>
   </tr>
 </table>
 
----
+</div>
 
-## 🤖 AI & Machine Learning
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
+<a name="projects"></a>
 
----
+## 📂 Featured Projects
 
-## 💹 Crypto & Market Analysis
+<!-- ✏️ Ganti tautan & deskripsi di bawah dengan repo project kamu yang asli.
+     Saran: pin 4 repo terbaik di tab https://github.com/Gilgamesh88888?tab=repositories -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Crypto-0F172A?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Crypto"/>
-  <img src="https://img.shields.io/badge/Technical%20Analysis-2563EB?style=for-the-badge" alt="Technical Analysis"/>
-  <img src="https://img.shields.io/badge/Price%20Action-16A34A?style=for-the-badge" alt="Price Action"/>
-  <img src="https://img.shields.io/badge/Market%20Structure-9333EA?style=for-the-badge" alt="Market Structure"/>
-  <img src="https://img.shields.io/badge/Risk%20Management-DC2626?style=for-the-badge" alt="Risk Management"/>
-  <img src="https://img.shields.io/badge/Web3-6366F1?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3"/>
-</p>
+<div align="center">
 
----
+<table>
+  <tr>
+    <th width="50%">
+      <a href="https://github.com/Gilgamesh88888?tab=repositories"><img src="https://img.shields.io/badge/🚧%20Project%20One-0F172A?style=for-the-badge&labelColor=0F172A" alt="Project One"/></a>
+    </th>
+    <th width="50%">
+      <a href="https://github.com/Gilgamesh88888?tab=repositories"><img src="https://img.shields.io/badge/🚧%20Project%20Two-1D4ED8?style=for-the-badge&labelColor=1D4ED8" alt="Project Two"/></a>
+    </th>
+  </tr>
+  <tr>
+    <td align="center"><em>Deskripsi singkat project pertama —
+      <code>Laravel</code> · <code>MySQL</code></em></td>
+    <td align="center"><em>Deskripsi singkat project kedua —
+      <code>Python</code> · <code>TensorFlow</code></em></td>
+  </tr>
+  <tr>
+    <th>
+      <a href="https://github.com/Gilgamesh88888?tab=repositories"><img src="https://img.shields.io/badge/🚧%20Project%20Three-2563EB?style=for-the-badge&labelColor=2563EB" alt="Project Three"/></a>
+    </th>
+    <th>
+      <a href="https://github.com/Gilgamesh88888?tab=repositories"><img src="https://img.shields.io/badge/🚧%20Project%20Four-7C3AED?style=for-the-badge&labelColor=7C3AED" alt="Project Four"/></a>
+    </th>
+  </tr>
+  <tr>
+    <td align="center"><em>Deskripsi singkat project ketiga —
+      <code>React</code> · <code>Node.js</code></em></td>
+    <td align="center"><em>Deskripsi singkat project keempat —
+      <code>Solidity</code> · <code>Web3</code></em></td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+
+<a name="stats"></a>
 
 ## 📊 GitHub Analytics
 
@@ -125,16 +173,24 @@ I'm passionate about turning ideas into real solutions, continuously learning ne
      penutupnya di akhir blok untuk mengaktifkan stats card, activity graph, dan trophies.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gilgamesh88888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&icon_color=60A5FA&title_color=60A5FA&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Gilgamesh88888&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gilgamesh88888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&icon_color=60A5FA&title_color=60A5FA&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgamesh88888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=C9D1D9"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgamesh88888&layout=compact&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgamesh88888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=C9D1D9" alt="Top Languages"/>
-  </picture>
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gilgamesh88888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&icon_color=60A5FA&title_color=60A5FA&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Gilgamesh88888&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=Gilgamesh88888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&icon_color=60A5FA&title_color=60A5FA&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgamesh88888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=C9D1D9"/>
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgamesh88888&layout=compact&hide_border=true"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgamesh88888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=C9D1D9" alt="Top Languages"/>
+        </picture>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
@@ -181,7 +237,9 @@ I'm passionate about turning ideas into real solutions, continuously learning ne
   <img src="https://raw.githubusercontent.com/Gilgamesh88888/Gilgamesh88888/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+
+<a name="contact"></a>
 
 ## 🌐 Connect With Me
 
