@@ -117,8 +117,11 @@ I'm passionate about turning ideas into real solutions, continuously learning ne
   </picture>
 </p>
 
-<!-- ⚠️ Catatan: layanan stats berikut sedang down (deployment paused) per Nov 2025.
-     Kalau sudah normal lagi, hapus tanda pembuka komentar di baris ini dan tanda
+<!-- ⚠️ Catatan: layanan github-readme-stats.vercel.app masih down (deployment paused, per Feb 2026 —
+     lihat https://github.com/anuraghazra/github-readme-stats/discussions/4771).
+     Solusi resmi dari maintainer: deploy instance Vercel milik sendiri (fork repo, lalu Deploy ke Vercel),
+     kemudian ganti URL di bawah dari github-readme-stats.vercel.app ke URL instance-mu.
+     Kalau sudah normal lagi / sudah self-host, hapus tanda pembuka komentar di baris ini dan tanda
      penutupnya di akhir blok untuk mengaktifkan stats card, activity graph, dan trophies.
 
 <p align="center">
@@ -155,9 +158,10 @@ I'm passionate about turning ideas into real solutions, continuously learning ne
 
 ## 🐍 Contribution Snake
 
-<!-- 🐍 Animasi ular interaktif yang "makan" kotak kontribusi kamu — animasi SVG murni!
-     BUTUH GitHub Action: salin file workflows/snake.yml ke folder .github/workflows/
-     di repo profil kamu, lalu jalankan sekali (lihat PANDUAN_SETUP.md). -->
+<!-- 🐍 Animasi ular interaktif yang "makan" kotak kontribusi kamu.
+     Butuh GitHub Action: simpan snake.yml di .github/workflows/ repo profil ini,
+     lalu jalankan sekali dari tab Actions → Run workflow.
+     Jangan lupa: Settings → Actions → Workflow permissions → "Read and write". -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gilgamesh88888/Gilgamesh88888/output/github-contribution-grid-snake-dark.svg"/>
@@ -170,9 +174,9 @@ I'm passionate about turning ideas into real solutions, continuously learning ne
 
 ## 🧊 3D Contribution
 
-<!-- 🧊 Profil kontribusi dalam bentuk kota 3D warna rainbow — BUTUH GitHub Action:
-     salin file workflows/profile-3d.yml ke folder .github/workflows/
-     di repo profil kamu, lalu jalankan sekali (lihat PANDUAN_SETUP.md). -->
+<!-- 🧊 Profil kontribusi dalam bentuk kota 3D warna rainbow.
+     Butuh GitHub Action: simpan profile-3d.yml di .github/workflows/ repo profil ini,
+     lalu jalankan sekali dari tab Actions → Run workflow. -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gilgamesh88888/Gilgamesh88888/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 </p>
@@ -186,8 +190,8 @@ I'm passionate about turning ideas into real solutions, continuously learning ne
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="52" height="52"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Gilgamesh88888?tab=followers">
-    <img src="https://img.shields.io/github/followers/Gilgamesh88888?style=for-the-badge&color=2563EB&labelColor=0F172A&label=Follow%20Me&logo=github&logoColor=white" alt="Follow Me"/>
+  <a href="https://github.com/Gilgamesh88888">
+    <img src="https://img.shields.io/badge/Gilgamesh88888-Follow%20Me-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me"/>
   </a>
 </div>
 
