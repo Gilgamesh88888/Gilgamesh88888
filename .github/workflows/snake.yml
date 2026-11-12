@@ -1,23 +1,15 @@
-# ============================================================
-#  SNAKE KONTRIBUSI ANIMASI 🐍
-#  Salin file ini ke: .github/workflows/snake.yml
-#  di repo profil kamu (repo dengan nama sama seperti username:
-#  Gilgamesh88888/Gilgamesh88888).
-#
-#  Ular akan otomatis "memakan" kotak kontribusi setiap hari
-#  dan hasilnya di-push ke branch "output", lalu tampil di README.
-# ============================================================
-
 name: Generate Contribution Snake
 
 on:
+  # jalan otomatis setiap hari jam 00:00 UTC
   schedule:
-    - cron: "0 0 * * *"   # jalan otomatis setiap hari jam 00:00 UTC
-  workflow_dispatch:       # bisa juga dijalankan manual dari tab Actions
+    - cron: "0 0 * * *"
+  # bisa dijalankan manual dari tab Actions → Run workflow
+  workflow_dispatch:
+  # jalan setiap kali ada push ke branch main
   push:
     branches:
       - main
-      - master
 
 permissions:
   contents: write
@@ -25,18 +17,25 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate snake SVG (versi light + dark)
-        uses: Platane/snk/svg-only-action@v3
+      # generate animasi snake dari contribution graph
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push hasil ke branch "output"
-        uses: crazy-max/ghaction-github-pages@v4
+      # push hasil SVG ke branch "output"
+      # file akan tersedia di:
+      # https://raw.githubusercontent.com/Gilgamesh88888/Gilgamesh88888/output/<nama-file>
+      - name: Push snake SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
