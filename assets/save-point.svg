@@ -1,16 +1,78 @@
+
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
-  <defs>
-    <linearGradient id="saveg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0B1220"/><stop offset="0.5" stop-color="#1E3A8A"/><stop offset="1" stop-color="#0B1220"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="120" rx="14" fill="url(#saveg)" stroke="#2563EB" stroke-width="1.5"/>
-  <text x="450" y="46" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" fill="#93C5FD" letter-spacing="4">SAVE POINT REACHED</text>
-  <text x="450" y="78" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">Let's build something together.</text>
-  <g>
-    <rect x="270" y="96" width="6" height="6" fill="#22C55E"><animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/></rect>
-    <rect x="292" y="96" width="6" height="6" fill="#22C55E"><animate attributeName="opacity" values="1;0.2;1" dur="1s" begin="0.25s" repeatCount="indefinite"/></rect>
-    <rect x="314" y="96" width="6" height="6" fill="#22C55E"><animate attributeName="opacity" values="1;0.2;1" dur="1s" begin="0.5s" repeatCount="indefinite"/></rect>
-    <rect x="336" y="96" width="6" height="6" fill="#22C55E"><animate attributeName="opacity" values="1;0.2;1" dur="1s" begin="0.75s" repeatCount="indefinite"/></rect>
-  </g>
+<defs>
+  <linearGradient id="saveg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#080F20"/>
+    <stop offset=".5" stop-color="#172D60"/>
+    <stop offset="1" stop-color="#080F20"/>
+  </linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#3B82F6" stop-opacity=".2"/>
+    <stop offset=".5" stop-color="#818CF8"/>
+    <stop offset="1" stop-color="#22C55E" stop-opacity=".2"/>
+  </linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#60A5FA" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#818CF8" stop-opacity=".7"/>
+    <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    <animateTransform attributeName="gradientTransform"
+      type="translate" values="-900 0;900 0"
+      dur="5s" repeatCount="indefinite"/>
+  </linearGradient>
+</defs>
+
+<!-- BACKGROUND -->
+<rect width="900" height="120" rx="12" fill="url(#saveg)"/>
+
+<!-- SUBTLE GRID -->
+<g stroke="#64748B" opacity=".12" stroke-width=".7">
+  <path d="M0 30H900 M0 90H900"/>
+  <path d="M150 0V120 M750 0V120"/>
+</g>
+
+<!-- BORDER -->
+<rect x=".75" y=".75" width="898.5" height="118.5"
+  rx="12" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+
+<!-- LEFT STATUS -->
+<circle cx="34" cy="29" r="4" fill="#22C55E">
+  <animate attributeName="opacity" values="1;.3;1"
+    dur="1.5s" repeatCount="indefinite"/>
+</circle>
+
+<text x="48" y="33" font-family="Consolas,monospace"
+  font-size="10" fill="#4ADE80" letter-spacing="2">
+  SYSTEM STATUS: READY
+</text>
+
+<!-- RIGHT STATUS -->
+<text x="866" y="33" text-anchor="end"
+  font-family="Consolas,monospace" font-size="9"
+  fill="#64748B" letter-spacing="1.5">
+  NODE://COLLABORATION
+</text>
+
+<!-- MAIN TEXT -->
+<text x="450" y="67" text-anchor="middle"
+  font-family="Segoe UI,Arial,sans-serif"
+  font-size="22" font-weight="700" fill="#FFFFFF">
+  Let's build something together.
+</text>
+
+<text x="450" y="91" text-anchor="middle"
+  font-family="Consolas,monospace"
+  font-size="10" fill="#93C5FD" letter-spacing="3">
+  CONNECT · CREATE · INNOVATE
+</text>
+
+<!-- SCANNING ACCENT -->
+<rect x="0" y="116" width="900" height="3" fill="url(#scan)"/>
+
+<!-- CORNER ACCENTS -->
+<g fill="#818CF8" opacity=".8">
+  <rect x="14" y="14" width="12" height="1"/>
+  <rect x="14" y="14" width="1" height="12"/>
+  <rect x="874" y="14" width="12" height="1"/>
+  <rect x="885" y="14" width="1" height="12"/>
+</g>
 </svg>
